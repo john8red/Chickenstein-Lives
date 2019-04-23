@@ -36,6 +36,7 @@ void wordGame(){
 
 
 //don't mind this yet just trying to figure out how to do this
+//if anyone's looking at this am I comparing arrays correctly?
 char guess
 
 if (SPAN(RAND()) == ENGL(RAND()))
