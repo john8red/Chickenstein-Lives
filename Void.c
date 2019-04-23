@@ -33,3 +33,15 @@ void wordGame(){
 	printf("You must find the correct word to match to the spanish word.\n");
 	
 }
+
+
+//don't mind this yet just trying to figure out how to do this
+char guess
+
+if (SPAN(RAND()) == ENGL(RAND()))
+	printf("arr[%d]", SPAN(RAND()));
+	scanf("%c", guess);
+	if (ENGL(RAND()) == guess)
+		prinf("You are correct");
+	else
+		printf("You are wrongo doggo");
