@@ -61,12 +61,5 @@ void wordGame(){
 		gets(currentAnswer);
 		guess(i, currentAnswer);
 	}
-	while(score < 6){
-		//if(currentGuess == isValid)
-			score++;
-	}
-		if(score > 5){
-		printf("You are donezo bumzo");
-		}
 }
 
