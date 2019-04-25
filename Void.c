@@ -42,7 +42,7 @@ void guess(int currentGuess, char guessString[]) {
 	// strcmp returns 0 if all chars are the same and the length of the strings are the same
 	int isValid = strcmp(guessString, ENGL[RAND[currentGuess]]);
 	if(isValid == 0) {
-		printf("You are correct");
+		printf("You are correct\n");
 	} else {
 		printf("You are wrongo doggo, the answer is: ");
 		puts(ENGL[RAND[currentGuess]]);
