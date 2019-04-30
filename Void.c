@@ -1,3 +1,10 @@
+/*
+Name: John Runyan and Giovanny Sanchez
+Program Name: Spanish Word Game
+Instructor: Moruf Adegbite
+Date: 4/30/2019
+*\
+
 #include <stdio.h>
 #include <string.h>
 #define SPANMAX 6
